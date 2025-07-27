@@ -6,7 +6,6 @@
 A Foundry-based implementation of a cross-chain, interest-bearing rebase token. This project utilizes Chainlink CCIP to enable the bridging of tokens between chains while preserving a user's unique, locked-in interest rate.
 
 The core economic model rewards early adoption by offering a global interest rate that only decreases over time for new depositors. This repository serves as a learning exercise and was completed as a part of the **Advanced Foundry** course's (offered by Cyfrin Updraft) *Cross Chain Rebase Token* section.
----
 
 ## Architecture
 
